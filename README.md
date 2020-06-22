@@ -6,6 +6,8 @@ The website provides an online presence for the studio that offers workshops and
 
 We created a website that expresses the fun personality of his school; CSS animation, a google-document submit form, and modal popups, all on a clean, easy-to-use, multi-page website. 
 
+This is a group project, a warm-up opportunity.
+
 ## Technology and Skills
 * JavaScript, jQuery
 * Node
